@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+appsettings.Development.json
+appsettings.json
+Logs/
+.vs/
+.skills
+.agent/
+.cursor
+wwwroot/uploads/
